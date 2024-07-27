@@ -1,0 +1,9 @@
+ollama
+sentence_transformers
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+langchain-chroma
+jupyter
+ipykernel
