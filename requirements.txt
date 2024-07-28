@@ -1,5 +1,7 @@
 pandas
 pyarrow
+nltk
+spacy
 ollama
 sentence_transformers
 langchain
