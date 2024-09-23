@@ -1,0 +1,3 @@
+*.parquet
+chroma_db
+results
